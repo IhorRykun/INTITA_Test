@@ -1,21 +1,21 @@
 {
-  "name": "BarberShop",
+  "name": "INTITA_Test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/IhorRykun/BarberShop/",
+  "homepage": "https://github.com/IhorRykun/INTITA_Test/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /BarberShop/"
+    "build": "parcel build src/*.html --public-url /INTITA_Test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IhorRykun/BarberShop"
+    "url": "git+https://github.com/IhorRykun/INTITA_Test"
   },
   "keywords": [],
   "author": "ihor rykun <ihorrykun@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IhorRykun/BarberShop"
+    "url": "https://github.com/IhorRykun/INTITA_Test"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
